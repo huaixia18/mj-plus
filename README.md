@@ -1,4 +1,4 @@
-# midjourney-proxy-plus
+# midjourney-plus
 
 [midjourney-proxy](https://github.com/novicezk/midjourney-proxy) 的plus版本，采用了全新模式。支持mj所有的指令和相关操作，精准匹配所有提交的任务。
 
@@ -29,22 +29,6 @@
 - [x] 支持 [niji・journey Bot](https://discord.com/invite/nijijourney)，需加入自己的服务器
 - [x] 支持 [InsightFace 人脸服务](https://discord.com/api/oauth2/authorize?client_id=1090660574196674713&permissions=274877945856&scope=bot)
 
-## 获取方式
-
-微信扫码获取，备注mj先行版
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="微信二维码"/>
-
-Telegram
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/telegram-qrcode.png" width="240" alt="Telegram二维码"/>
-
-加入我们即可获得
-
-- midjourney-proxy的最新版本
-- [微信机器人最新版本](https://github.com/litter-coder/wechat-ai)
-- 及时维护，出问题优先修复
-- 您的意见和建议会被我们重点采纳
 
 ## 使用前提
 1. 注册并订阅 MidJourney，创建自己的频道，参考 https://docs.midjourney.com/docs/quick-start
